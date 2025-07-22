@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.4.1",
@@ -6,4 +9,5 @@
     "fs-extra": "^11.3.0",
     "inquirer": "^12.8.2"
   }
+  
 }
